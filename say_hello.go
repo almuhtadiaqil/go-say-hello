@@ -1,4 +1,4 @@
-package go_sau_hello
+package go_say_hello
 
 func SayHello() string {
 	return "Hello World!"
